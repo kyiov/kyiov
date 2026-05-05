@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Har404-err&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=WhatsApp%20API%20Expert%20|%20Automation%20Specialist&descAlignY=55&descSize=15" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Muhar&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=WhatsApp%20API%20Expert%20|%20Automation%20Specialist&descAlignY=55&descSize=15" width="100%"/>
 </div>
 
 <div align="center">
@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Har404-err">
+  <a href="https://github.com/kyiov">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Har404-err;%F0%9F%8F%A0+Welcome+To+My+Digital+Realm" alt="Typing SVG" style="max-width: 100%;" />
   </a>
 </div>
@@ -26,7 +26,7 @@ My Profile
 Username: muh4r
 Status: Automation Enthusiast.
 Languages: Indonesia & English
-Waifu: Alya Kujou (アリサ・九条)
+Waifu: アリサ・九条
 Location: Indonesia.
 Hobbies: Coding, Automation, Music.
 ```
