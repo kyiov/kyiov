@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media1.tenor.com/m/wSTeCJTnzvYAAAAC/mambo.gif" width="250px"/>
+</div>
+
 # Hi there, I'm Muhar 👋
 
 **WhatsApp API Expert | Automation Specialist | Backend Developer**
