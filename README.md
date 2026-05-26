@@ -1,21 +1,17 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Kyiov&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=WhatsApp%20API%20Expert%20|%20Automation%20Specialist&descAlignY=55&descSize=15" width="100%"/>
-</div>
+# Hi there, I'm Muhar 👋
 
-<div align="center">
-  <img src="https://media1.tenor.com/m/wSTeCJTnzvYAAAAC/mambo.gif" width="250px"/>
-</div>
+**WhatsApp API Expert | Automation Specialist | Backend Developer**
 
-<div align="center">
-  <a href="https://github.com/kyiov">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Kyiov;%F0%9F%8F%A0+Welcome+To+My+Digital+Realm" alt="Typing SVG" style="max-width: 100%;" />
-  </a>
-</div>
+Welcome to my digital workspace! I specialize in building robust automation tools, bots, and backend architectures. I'm passionate about streamlining processes and creating seamless user experiences through code.
 
-<h2 align="center"> <h2> About me </h2>
+🔗 **Visit my portfolio:** [muhar.dev](https://your-website.com) *(Placeholder: Ganti dengan link web asli kamu)*  
+
+---
+
+### 👨‍💻 About Me
 
 ```sh
-kyiov@localhost[20:04:28] (main):~/my-profile$ neofetch
+muhar@localhost[20:04:28] (main):~/my-profile$ neofetch
 ```
 
 <img align="left" src="https://put.icu/s/05apq2zb.jpg" width="130px" style="border-radius: 10px; margin-right: 20px;"/>
@@ -23,7 +19,7 @@ kyiov@localhost[20:04:28] (main):~/my-profile$ neofetch
 ```yaml
 My Profile
 -------------------------------
-Username: kyiov
+Username: Muhar
 Status: Automation Enthusiast.
 Languages: Indonesia & English
 Waifu: アリサ・九条
@@ -31,7 +27,9 @@ Location: Indonesia.
 Hobbies: Coding, Automation, Music.
 ```
 
-<br>
+<br clear="both"/>
+
+### 🎵 My Playlist
 
 <div>
 <p align="right">
@@ -79,124 +77,49 @@ Hobbies: Coding, Automation, Music.
 </p>
 </div>
 
-<br>
+<br clear="both"/>
 
-<h3 align="center">🛠️ Languages and Tools</h3>
-<div align="center"> 
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,sqlite,supabase,html,css,tailwind,vite,git,linux,npm,github&theme=dark" />
-</div>
+### 🛠️ Tech Stack & Tools
 
-<br>
-
-<h3 align="center">⚙️ Daily Routine Script</h3>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=63A4FF&center=true&vCenter=true&width=600&lines=while+(life.status+===+'active')+{;++eat();;++sleep();;++maintain_baileys_session();;++optimize_neural_logic();;++bypass_restrictions();;++automate_everything();;++repeat();;}" alt="Routine SVG" />
-</div>
-
-<h3 align="center">🚀 My Bot & Group</h3>
-<div align="center">
-  <a href="https://wa.me/6285167562647?text=/menu">
-    <img src="https://img.shields.io/badge/LIVE_BOT_DEMO-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Bot Demo" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,sqlite,supabase,html,css,tailwind,vite,git,linux,npm,github&theme=dark" alt="My Skills" />
   </a>
-  <a href="https://chat.whatsapp.com/KkQDOXDZeDuC6UskCmpGg3">
-    <img src="https://img.shields.io/badge/JOIN_GROUP_BOT-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Bot Group" />
-  </a>
-</div>
+</p>
 
-<h3 align="center">📱 Let's Connect</h3>
-<div align="center">
+### 🚀 Projects & Live Demos
+
+I actively develop tools for the community. Check out some of my active services:
+
+- 🤖 **Live Bot Demo:** [Try my WhatsApp Bot](https://wa.me/6285167562647?text=/menu)
+- 👥 **Community Group:** [Join our developer group](https://chat.whatsapp.com/KkQDOXDZeDuC6UskCmpGg3)
+
+### 📱 Let's Connect
+
+<p align="left">
   <a href="https://wa.me/6282148570591">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://www.instagram.com/kyiov_01">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto: kyiov@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
+</p>
 
 ---
-
-<div align="center">
-  <a href="https://github.com/kyiov">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=WhatsApp+API+Expert;Automation+Developer" alt="Typing SVG" style="max-width: 100%;" />
-  </a>
-</div>
 
 <div align="center">
   <img src="https://cdn.sankavolereii.my.id/Pacman.gif" alt="Pacman Game" width="100%">
 </div>
 
-<div align="center">
-  <a href="https://github.com/kyiov">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=kyiov&data=followers,repositories,stars&theme=darkmode" style="max-width: 100%;" />
-  </a>
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://komarev.com/ghpvc/?username=kyiov&color=63a4ff&style=for-the-badge&label=SYSTEM+ACCESS" style="margin-bottom: 5px; max-width: 100%;" />
-</div>
-
 ---
 
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <img src="https://github-stats-alpha.vercel.app/api?username=kyiov&cc=000&tc=fff&ic=fff&bc=000" style="max-width: 100%; margin-bottom: 10px;">
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyiov&theme=tokyonight" style="max-width: 100%; margin-bottom: 10px;">
-  
-  <div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kyiov&theme=tokyonight" style="max-width: 100%; width: 48%; display: inline-block;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kyiov&theme=tokyonight" style="max-width: 100%; width: 48%; display: inline-block;">
-  </div>
-  
-  <img src="https://streak-stats.demolab.com?user=kyiov&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" alt="streak graph" style="max-width: 100%; margin-top: 10px;" />
-</div>
----
+### 📊 GitHub Activity
 
-<div align="center">
-  <h2>🏙️ Cyber City (GitHub Contributions)</h2>
-  <img src="https://gitcity.natrajx.in/api/svg?username=kyiov&theme=matrix" width="100%" alt="GitCity - GitHub City Visualization">
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kyiov&show_icons=true&theme=tokyonight&hide_border=true&title_color=63A4FF" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=kyiov&theme=tokyonight&hide_border=true&title_color=63A4FF" width="49%" />
+</p>
 
----
-
-<div align="center">
-  <h2>📈 Contribution Graph</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kyiov&bg_color=0d1117&color=63a4ff&line=83eaf1&point=63a4ff&area=true&hide_border=true&radius=8" style="max-width: 100%;">
-</div>
-
----
-
-<div align="center">
-  <h2>💝 Support Me</h2>
-  <img src="https://media.tenor.com/kMvtJh1VrroAAAAd/alya-san-hides-her-feelings-in-russian-tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san.gif" width="250px" style="border-radius: 10px;"/>
-
-<br><br>
-
-  <div align="center">
-    <a href="https://trakteer.id/kyiov/gift">
-      <img src="https://img.shields.io/badge/Trakteer-FF0000?style=for-the-badge&logo=kofi&logoColor=white" alt="Trakteer" />
-    </a>
-  </div>
-
-  <br>
-
-  <a href="https://github.com/kyiov">
-    <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=24&pause=1000&color=63A4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+awesome!+%F0%9F%9A%80" alt="Typing SVG" style="max-width: 100%;" />
-  </a>
-
-  <h2>Show some ❤️ by starring repositories!</h2>
-</div>
-
-<footer align="center">
-  <a href="https://github.com/kyiov" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
-  </a>
-  <p>© 2026 kyiov • All rights reserved</p>
-</footer>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=120&section=footer" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kyiov&bg_color=1a1b27&color=63a4ff&line=83eaf1&point=63a4ff&area=true&hide_border=true&radius=8" width="100%" />
+</p>
