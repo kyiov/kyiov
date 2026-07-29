@@ -33,6 +33,9 @@ Hobbies: Coding, Automation, Music
 
 <br/>
 <br/>
+[Instagram](https://instagram.com/kyiov) &nbsp;·&nbsp; [Telegram](https://t.me/kyiov)
+<br/>
+<br/>
 
 > **Hi, I'm kyiov!** 👋 <br>
 > Small, sharp tools over big vague ideas.
