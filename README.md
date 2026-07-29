@@ -1,11 +1,7 @@
 <div align="center">
 
-<!-- Hero Banner (You can replace this with your own banner or ascii art) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/main/light.svg">
-  <img alt="Hero Banner" src="https://raw.githubusercontent.com/arifhaxn/arifhaxn/main/light.svg" width="800">
-</picture>
+<!-- Stats Banner -->
+<img src="https://raw.githubusercontent.com/andriidrok1/andriidrok1/master/stats.svg" width="800" alt="Contributions in the last year"/>
 
 <br/>
 <br/>
