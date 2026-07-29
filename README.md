@@ -32,14 +32,9 @@ Hobbies: Coding, Automation, Music
 <img src="./github-metrics.svg" width="800" alt="Contributions in the last year"/>
 
 <br/>
-[instagram](https://instagram.com/muh4r_fgh) &nbsp;·&nbsp;
-[telegram](https://t.me/Muh4r)
+<img src="./hd-stack.svg" width="620" alt="stack"/>
 <br/>
-<br/>
-
-<img src="https://raw.githubusercontent.com/andriidrok1/andriidrok1/master/hd-stack.svg" width="620" alt="stack"/>
-<br/>
-<samp>javascript &nbsp; node &nbsp; express &nbsp; sqlite &nbsp; supabase &nbsp; html &nbsp; css &nbsp; tailwindcss &nbsp; vite &nbsp; git &nbsp; linux &nbsp; npm &nbsp; github</samp>
+<samp>python &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; node &nbsp; three.js &nbsp; fastapi &nbsp; postgres &nbsp; docker &nbsp; git &nbsp; linux</samp>
 <br/>
 <br/>
 </div>
