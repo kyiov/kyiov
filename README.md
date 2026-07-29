@@ -4,7 +4,7 @@
 <br/>
 </div>
 
-<h3 align="center">👨‍💻 About Me</h3>
+
 
 ```sh
 muhar@localhost[20:04:28] (main):~/my-profile$ neofetch
