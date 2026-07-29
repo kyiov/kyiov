@@ -10,7 +10,7 @@
 muhar@localhost[20:04:28] (main):~/my-profile$ neofetch
 ```
 
-<img align="left" src="https://put.icu/s/05apq2zb.jpg" width="130px" style="border-radius: 10px; margin-right: 20px;"/>
+<img align="left" src="https://github.com/kyiov.png" width="130px" style="border-radius: 10px; margin-right: 20px;"/>
 
 ```yaml
 My Profile
