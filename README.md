@@ -34,7 +34,7 @@ Hobbies: Coding, Automation, Music
 <br/>
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 <br/>
-<samp>python &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; node &nbsp; three.js &nbsp; fastapi &nbsp; postgres &nbsp; docker &nbsp; git &nbsp; linux</samp>
+<samp>python &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; node &nbsp; three.js &nbsp; fastapi &nbsp; postgres &nbsp; docker &nbsp; git &nbsp; linux &nbsp; termux</samp>
 <br/>
 <br/>
 </div>
