@@ -32,9 +32,8 @@ Hobbies: Coding, Automation, Music
 <img src="./github-metrics.svg" width="800" alt="Contributions in the last year"/>
 
 <br/>
-<br/>
-[Instagram](https://instagram.com/kyiov) &nbsp;·&nbsp; [Telegram](https://t.me/kyiov)
-<br/>
+<a href="https://instagram.com/kyiov"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram"/></a> &nbsp;
+<a href="https://t.me/kyiov"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=flat&logo=Telegram&logoColor=white" alt="Telegram"/></a>
 <br/>
 
 <br/>
