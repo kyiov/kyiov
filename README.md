@@ -38,9 +38,12 @@ Hobbies: Coding, Automation, Music
 > Small, sharp tools over big vague ideas.
 
 <br/>
-
-<samp>python &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; node &nbsp; tailwindcss &nbsp; docker &nbsp; git &nbsp; linux</samp>
-
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,sqlite,supabase,html,css,tailwind,vite,git,linux,npm,github&theme=dark&perline=10" alt="My Skills" />
+  </a>
+</p>
 <br/>
 <br/>
 
