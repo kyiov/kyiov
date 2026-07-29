@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.tenor.com/1-11y91X93gAAAAM/mambo-dance.gif" width="150" alt="Mambo Dance"/>
+<img src="https://media1.tenor.com/m/wSTeCJTnzvYAAAAC/mambo.gif" width="250px" alt="Mambo Dance"/>
 <br/>
 
 <!-- Stats Banner -->
