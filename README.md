@@ -35,7 +35,11 @@ Hobbies: Coding, Automation, Music
 [instagram](https://instagram.com/muh4r_fgh) &nbsp;·&nbsp;
 [telegram](https://t.me/Muh4r)
 <br/>
+<br/>
 
-
-
+<img src="https://raw.githubusercontent.com/andriidrok1/andriidrok1/master/hd-stack.svg" width="620" alt="stack"/>
+<br/>
+<samp>javascript &nbsp; node &nbsp; express &nbsp; sqlite &nbsp; supabase &nbsp; html &nbsp; css &nbsp; tailwindcss &nbsp; vite &nbsp; git &nbsp; linux &nbsp; npm &nbsp; github</samp>
+<br/>
+<br/>
 </div>
