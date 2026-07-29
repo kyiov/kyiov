@@ -29,17 +29,12 @@ Hobbies: Coding, Automation, Music
 <div align="center">
 
 <!-- Stats Banner -->
-<img src="https://raw.githubusercontent.com/andriidrok1/andriidrok1/master/stats.svg" width="800" alt="Contributions in the last year"/>
+<img src="./github-metrics.svg" width="800" alt="Contributions in the last year"/>
 
 <br/>
 <br/>
 [Instagram](https://instagram.com/kyiov) &nbsp;·&nbsp; [Telegram](https://t.me/kyiov)
 <br/>
-<br/>
-
-> **Hi, I'm kyiov!** 👋 <br>
-> Small, sharp tools over big vague ideas.
-
 <br/>
 
 <br/>
