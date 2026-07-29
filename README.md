@@ -1,5 +1,8 @@
 <div align="center">
 
+<img src="https://media.tenor.com/1-11y91X93gAAAAM/mambo-dance.gif" width="150" alt="Mambo Dance"/>
+<br/>
+
 <!-- Stats Banner -->
 <img src="https://raw.githubusercontent.com/andriidrok1/andriidrok1/master/stats.svg" width="800" alt="Contributions in the last year"/>
 
